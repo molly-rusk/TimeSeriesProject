@@ -1,6 +1,6 @@
 # About
 
-This project uses data exploration to discover insights about different stocks including Amazon, Apple, Google, and Microsoft. The datasets for this project range from 2013 to 2018. 
+This time series project uses data exploration to discover insights about different stocks including Amazon, Apple, Google, and Microsoft. The datasets for this project range from 2013 to 2018. 
 
 Technology stack:
 - Visual Studio
@@ -11,3 +11,4 @@ Technology stack:
 - Matplotlib.pyplot
 - plotly
 - plotly.express
+- seaborn
